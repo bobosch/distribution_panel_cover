@@ -1,0 +1,44 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Hager System T (1975) 1 Row": {
+            "cut_height": "99",
+            "cut_pos_x": "2.5",
+            "cut_pos_z": "21",
+            "four_lock": "false",
+            "outer_depth": "58",
+            "outer_height": "140",
+            "outer_width": "247",
+            "row1_pos_z": "47",
+            "row2_pos_z": "0",
+            "wall": "3"
+        },
+        "Hager System T (1975) 2 Row": {
+            "cut_height": "146",
+            "cut_pos_x": "2.5",
+            "cut_pos_z": "115",
+            "outer_depth": "58",
+            "outer_height": "279",
+            "outer_width": "247",
+            "row1_pos_z": "62",
+            "row2_pos_z": "172",
+            "wall": "3"
+        },
+        "Hager System T (1975) 2 Row+": {
+            "cut_height": "146",
+            "cut_pos_x": "2.5",
+            "cut_pos_z": "115",
+            "four_lock": "true",
+            "lock_pos_b": "10",
+            "lock_pos_l": "13",
+            "lock_pos_r": "56",
+            "lock_pos_t": "10",
+            "outer_depth": "58",
+            "outer_height": "279",
+            "outer_width": "247",
+            "row1_pos_z": "52",
+            "row2_pos_z": "172",
+            "wall": "3"
+        }
+    }
+}
