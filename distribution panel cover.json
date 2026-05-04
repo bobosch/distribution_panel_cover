@@ -39,6 +39,28 @@
             "row1_pos_z": "52",
             "row2_pos_z": "172",
             "wall": "3"
+        },
+        "Hager System 80 SL (1982) 1 Row": {
+            "cut_height": "0",
+            "cut_pos_x": "0",
+            "cut_pos_z": "0",
+            "four_lock": "true",
+            "lock_pos_b": "16",
+            "lock_pos_l": "10",
+            "lock_pos_r": "10",
+            "lock_pos_t": "16",
+            "lock_type": "1982",
+            "outer_depth": "44",
+            "outer_height": "149",
+            "outer_width": "248",
+            "print_stabilize_x": "0",
+            "row1_pos_z": "45",
+            "row2_pos_z": "0",
+            "rows_pos_x": "16",
+            "stabilize_x_pos": "[28.5, 106]",
+            "stabilize_z_fix_b": "true",
+            "units": "12",
+            "wall": "2.5"
         }
     }
 }
